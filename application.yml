@@ -1,6 +1,4 @@
 spring:
-  application:
-    name: order
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost/SpringCloud_Sell?useSSL=false&serverTimezone=UTC
